@@ -28,3 +28,28 @@ It listens to the user, processes commands, and responds using text-to-speech.
 ## 📂 Project Structure
 - jarvis-voice-assistant/
 - jarvis.py
+
+---
+🗣️ Example Voice Commands
+
+- "Tell me the time"
+
+- "Tell me the date"
+
+- "Open Google"
+
+- "Open YouTube"
+
+- "Play song on YouTube"
+
+- "Stop" / "Exit"
+
+
+---
+👨‍💻 Author
+
+Karan Panda
+Web Developer | Django Backend & Full-Stack Enthusiast
+
+
+-LinkedIn: https://www.linkedin.com/in/karan-panda-57ba373a7
