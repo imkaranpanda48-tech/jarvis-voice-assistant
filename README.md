@@ -30,7 +30,7 @@ It listens to the user, processes commands, and responds using text-to-speech.
 - jarvis.py
 
 ---
-🗣️ Example Voice Commands
+## 🗣️ Example Voice Commands
 
 - "Tell me the time"
 
@@ -46,10 +46,8 @@ It listens to the user, processes commands, and responds using text-to-speech.
 
 
 ---
-👨‍💻 Author
+## 👨‍💻 Author
 
-Karan Panda
+## Karan Panda
 Web Developer | Django Backend & Full-Stack Enthusiast
-
-
 -LinkedIn: https://www.linkedin.com/in/karan-panda-57ba373a7
