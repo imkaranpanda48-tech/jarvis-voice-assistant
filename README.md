@@ -50,4 +50,5 @@ It listens to the user, processes commands, and responds using text-to-speech.
 
 ## Karan Panda
 Web Developer | Django Backend & Full-Stack Enthusiast
--LinkedIn: https://www.linkedin.com/in/karan-panda-57ba373a7
+
+- LinkedIn: https://www.linkedin.com/in/karan-panda-57ba373a7
